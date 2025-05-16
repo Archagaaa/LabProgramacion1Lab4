@@ -9,6 +9,6 @@ package labprogramacion1semana4;
  * @author Jona Ramos
  */
 public class ramos_jonatan__filtrar {
-    
+    mai Object object  = new Object();
 }
 uninin
